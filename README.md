@@ -20,8 +20,8 @@ Check out the live demo to see Raven Post in action: [Live Demo](https://raven-p
 ## Screenshots 
 
 ### Conversation
-![Conversation](/public/conversation.png)
+![Conversation](/public/screenshot-conversation.png)
 
 ### Recent Chats
-![Recent Chats](/public/recent-chats.png)
+![Recent Chats](/public/screenshot-recent-chats.png)
 
